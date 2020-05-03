@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Search Weather</string>
+    <string name="title_activity_current_weather">CurrentWeather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_city_uk_fr_us">Add City (Exeter...)</string>
+    <string name="add_country_exeter">Add Country (uk, fr...)</string>
+    <string name="city_country">City, Country</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="_29_c">29°C</string>
+    <string name="min_temp_05_05_am">Min Temp: 05:05 AM</string>
+    <string name="max_temp_05_05_pm">Max Temp: 05:05 PM</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
